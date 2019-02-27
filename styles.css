@@ -63,7 +63,7 @@ ul { list-style: none; padding: 0;  }
 
 /* Footer */
 .attribution { font-size: 0.6rem; text-align: center;  }
-.attribution__link { background-color: inherit; color: #433EA3;  }
+.attribution__link { background-color: inherit; color: #6864b5;  }
 
 .footer-logo {
   -webkit-filter: brightness(0) invert(1);
