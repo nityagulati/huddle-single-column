@@ -4,11 +4,17 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉
+Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉 Coded by [Nitya Gulati](https://nityagulati.github.io/).
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
 **To do these challenges, you need a basic understanding of HTML, CSS and (sometimes) JavaScript.**
+
+## Where to find everything
+
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
+
+You can access all the required assets and the style guide on the Frontend Mentor website. 
 
 ## Sharing your solution
 
